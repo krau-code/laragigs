@@ -1,3 +1,21 @@
+## Laravel Course
+
+Laravel From Scratch by **Traversy Media**
+
+This is a duplicate website of what Brad did in his tutorial. The code is not mine, I just followed along with the video so I could understand the topic more.
+
+The main purpose of this repository is to be my personal refresher & exercise for this topic.
+
+Things that I added/changed:
+* Changed the title in every page
+* Changed the visibility of the links to hidden in registration & login page
+* Centered the "No Listing Found" in the index page when there are no listing
+* Added the functionality to show or hide the edit & delete button if the user is the owner or not the owner of the listing
+* Added the logo as a favicon
+
+Tutorial Link: <https://www.youtube.com/watch?v=MYyJ4PuL4pY>  
+My Live Link: <https://bit.ly/krau-laragigs>  
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
